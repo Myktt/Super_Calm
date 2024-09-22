@@ -1,3 +1,10 @@
+
+https://idmedia.ua/ua/board/221721
+
+
+
+
+
 En ce qui concerne les branches, n’oubliez pas que la branche de base correspond à l’emplacement auquel les changements doivent être appliqués (où) et que la branche principale contient ce que vous aimeriez appliquer (quoi).
 
 Quand vous modifiez le dépôt de base, vous modifiez également les notifications de la demande de tirage. Toute personne en mesure de pousser (push) vers le dépôt de base reçoit une notification par e-mail et voit la nouvelle demande de tirage dans son tableau de bord lors de sa prochaine connexion.
